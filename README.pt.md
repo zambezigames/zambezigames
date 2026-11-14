@@ -2,6 +2,5 @@
 
 [English](README.md) | **Português**
 
-Estúdio de jogos da plataforma ZambeziOS.
-
-[→ ZambeziOS](https://github.com/zambezi-os/zambezios)
+Estúdio de jogos independente.
+A desenvolver para [ZambeziOS](https://github.com/zambezi-os/zambezios).
